@@ -1,4 +1,4 @@
-module OpenGL [system] {
+module CLinuxOpenGL [system] {
     header "/usr/include/GL/gl.h"
     link "GL"
     export *
