@@ -1,0 +1,5 @@
+module OpenGL [system] {
+    header "/usr/include/GL/gl.h"
+    link "GL"
+    export *
+}
